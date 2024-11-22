@@ -1,0 +1,11 @@
+Name of QuantLet : 'HashRecommendation'
+
+Published in : 'HashRecommendation' 
+
+Description : 'How to make recommendation safe'
+
+Keywords : 'Hash, NLP'
+
+Author : 'WK Haerdle Zuo Xiaorui Ruting WANG Raul Bag'
+
+Submitted : Fri, Nov 22 2024
