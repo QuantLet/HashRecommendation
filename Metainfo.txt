@@ -6,6 +6,6 @@ Description : 'How to make recommendation safe'
 
 Keywords : 'Hash, NLP'
 
-Author : 'WK Haerdle Zuo Xiaorui Ruting WANG Raul Bag'
+Author : 'WK Haerdle Xiaorui ZUO Ruting WANG Raul Bag'
 
 Submitted : Fri, Nov 22 2024
